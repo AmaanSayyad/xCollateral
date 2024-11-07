@@ -2,9 +2,6 @@
 
 xCollateral is an overcollateralized DeFi platform built on the XRP Ledger (XRPL) with support for EVM-compatible side chains, leveraging XRPL's native AMM for fast token swaps, bridging, and secure cross-chain lending. The platform offers a transparent, secure, and lightning-fast DeFi solution where users can lend tokens, borrow stable coins, and earn interest through a system that automatically monitors and liquidates under-collateralized loans.
 
-## Vision
-To create a fast, secure, and overcollateralized DeFi platform using XRPL’s AMM and side chains to bridge assets seamlessly across networks, empowering users with efficient, transparent, and reliable financial tools.
-
 ## Features
 - **Overcollateralized Loans**: Borrowers provide collateral worth more than the loan, minimizing risk for lenders.
 - **AMM-Powered Liquidation**: XRPL’s AMM enables rapid liquidation of collateral for stable coins if a loan becomes under-collateralized.
